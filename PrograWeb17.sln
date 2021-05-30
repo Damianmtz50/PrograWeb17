@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrograWeb16", "PrograWeb16\PrograWeb16.csproj", "{7CA71B4A-D714-4230-964D-2D08446F9E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA71B4A-D714-4230-964D-2D08446F9E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA71B4A-D714-4230-964D-2D08446F9E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA71B4A-D714-4230-964D-2D08446F9E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA71B4A-D714-4230-964D-2D08446F9E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC3ABAB-A14A-4E0B-9380-D926C1532035}
+	EndGlobalSection
+EndGlobal
